@@ -34,7 +34,7 @@
                 if (account.Password == password)
                 {
                     Console.WriteLine("Account Verified!");
-                    BankStatement.DisplayStatement(account);  
+                    BankStatement.DisplayStatement(account);
                     AccountMenu(account);  // Show the account menu for further operations
                     isLoggedIn = true;
                 }
@@ -63,6 +63,9 @@
 
             Console.Write("Please select an option: ");
             string choice = Console.ReadLine();
+
+            // Simulate the passage of time for each operation (1 second = 1 month)
+            account.CalculateInterest();  // Apply interest before every operation
 
             switch (choice)
             {

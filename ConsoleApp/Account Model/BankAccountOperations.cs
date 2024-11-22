@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Transactions;
-
 public class BankAccountOperations : IBankAccountOperations
 {
     public int AccountNumber { get; private set; }
@@ -12,6 +10,7 @@ public class BankAccountOperations : IBankAccountOperations
 
     private List<string> transactionHistory;
     private DateTime lastInterestCalculation;
+
     public BankAccountOperations(int accountNumber, double initialBalance, string accountHolderName, double interestRate, string password)
     {
         AccountNumber = accountNumber;
@@ -20,6 +19,7 @@ public class BankAccountOperations : IBankAccountOperations
         InterestRate = interestRate;
         Password = password;
         transactionHistory = new List<string>();
+        lastInterestCalculation = DateTime.Now;
     }
 
     public void DepositMoney(double amount)
@@ -48,6 +48,24 @@ public class BankAccountOperations : IBankAccountOperations
         }
     }
 
+    public void CalculateInterest()
+    {
+        // Simulate the passage of time where 1 second = 1 month
+        TimeSpan timeSinceLastCalculation = DateTime.Now - lastInterestCalculation;
+
+        // Calculate interest only if at least 1 second (representing 1 month) has passed
+        if (timeSinceLastCalculation.TotalSeconds >= 1)
+        {
+            double monthsElapsed = timeSinceLastCalculation.TotalSeconds;
+            double interest = Balance * InterestRate * monthsElapsed;
+            Balance += interest;
+            transactionHistory.Add($"Interest applied: {interest.ToString("C")} for {monthsElapsed} month(s)");
+
+            // Update last interest calculation time
+            lastInterestCalculation = DateTime.Now;
+        }
+    }
+
     public void DisplayStatement()
     {
         Console.WriteLine($"*** Bank Statement ***");
@@ -58,9 +76,7 @@ public class BankAccountOperations : IBankAccountOperations
         Console.WriteLine("Transaction History:");
         foreach (var transaction in transactionHistory)
         {
-            Console.WriteLine(transaction);  
+            Console.WriteLine(transaction);
         }
     }
-
-
 }

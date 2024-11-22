@@ -8,5 +8,6 @@
 
     void DepositMoney(double amount);
     void WithdrawMoney(double amount);
+    void CalculateInterest(); // Add this method to the interface
     void DisplayStatement();
 }
