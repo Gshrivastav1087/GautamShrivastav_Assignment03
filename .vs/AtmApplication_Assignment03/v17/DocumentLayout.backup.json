@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\accountservices\\transactionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|solutionrelative:accountservices\\transactionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\utilities\\bankstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|solutionrelative:utilities\\bankstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\accountservices\\bankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|solutionrelative:accountservices\\bankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\accountmanagement\\ibankaccountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|solutionrelative:accountmanagement\\ibankaccountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\accountmanagement\\ibankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|solutionrelative:accountmanagement\\ibankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|c:\\users\\lovel\\onedrive - conestoga college\\sqa\\high quality software programming\\atmapplication_assignment03\\account model\\bankaccountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF35271-2F99-4E2B-AD89-66D164F6248D}|AtmApplication_Assignment03.csproj|solutionrelative:account model\\bankaccountoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-20T21:31:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBankAccountOperations.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\AccountManagement\\IBankAccountOperations.cs",
+              "RelativeDocumentMoniker": "AccountManagement\\IBankAccountOperations.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\AccountManagement\\IBankAccountOperations.cs",
+              "RelativeToolTip": "AccountManagement\\IBankAccountOperations.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:42:04.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\AccountServices\\BankAccountManager.cs",
+              "RelativeDocumentMoniker": "AccountServices\\BankAccountManager.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\AccountServices\\BankAccountManager.cs",
+              "RelativeToolTip": "AccountServices\\BankAccountManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:13:05.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsManager.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\AccountServices\\TransactionsManager.cs",
+              "RelativeDocumentMoniker": "AccountServices\\TransactionsManager.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\AccountServices\\TransactionsManager.cs",
+              "RelativeToolTip": "AccountServices\\TransactionsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:12:52.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankStatement.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\Utilities\\BankStatement.cs",
+              "RelativeDocumentMoniker": "Utilities\\BankStatement.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\Utilities\\BankStatement.cs",
+              "RelativeToolTip": "Utilities\\BankStatement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:13:18.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:10:20.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBankAccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\AccountManagement\\IBankAccountManager.cs",
+              "RelativeDocumentMoniker": "AccountManagement\\IBankAccountManager.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\AccountManagement\\IBankAccountManager.cs",
+              "RelativeToolTip": "AccountManagement\\IBankAccountManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:42:58.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankAccountOperations.cs",
+              "DocumentMoniker": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\Account Model\\BankAccountOperations.cs",
+              "RelativeDocumentMoniker": "Account Model\\BankAccountOperations.cs",
+              "ToolTip": "C:\\Users\\lovel\\OneDrive - Conestoga College\\SQA\\High Quality Software Programming\\AtmApplication_Assignment03\\Account Model\\BankAccountOperations.cs",
+              "RelativeToolTip": "Account Model\\BankAccountOperations.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA0wEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:12:36.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
