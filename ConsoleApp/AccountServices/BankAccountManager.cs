@@ -8,7 +8,7 @@
 
         for (int i = 100; i <= 1000; i++)
         {
-            accounts.Add(new BankAccountOperations(i, 100, $"AccountHolder{i}", 0.03, "assignment03"));
+            accounts.Add(new BankAccountOperations(i, 100, $"IamRandomUser{i}", 0.03, "assignment03"));
         }
     }
 
